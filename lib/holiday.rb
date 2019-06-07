@@ -54,7 +54,7 @@ holiday_hash.each do |season,information|
   information.each do |holiday, value|
     value.each do |supply|
      if supply == "BBQ"
-        answer.push(holiday)
+        array.push(holiday)
       end
     end
   end

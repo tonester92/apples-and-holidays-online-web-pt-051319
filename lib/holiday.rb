@@ -60,5 +60,4 @@ holiday_hash.each do |season, data|
   end
 end
 answer
-
 end
